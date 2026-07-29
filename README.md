@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0F172A,45:312E81,100:7C3AED&amp;text=Nuri%20Alp%20Mutlu&amp;fontColor=FFFFFF&amp;fontSize=46&amp;fontAlignY=38&amp;desc=Python%20and%20Django%20Developer%20%E2%80%A2%20Mathematics%20Graduate&amp;descAlignY=59&amp;descSize=18&amp;animation=fadeIn" alt="Nuri Alp Mutlu — Python and Django Developer, Mathematics Graduate" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0F172A,45:312E81,100:7C3AED&amp;text=Nuri%20Alp%20Mutlu&amp;fontColor=FFFFFF&amp;fontSize=46&amp;fontAlignY=38&amp;desc=Mathematics%20Graduate%20%E2%80%A2%20Backend%20and%20ERP%20Developer&amp;descAlignY=59&amp;descSize=18&amp;animation=fadeIn" alt="Nuri Alp Mutlu — Mathematics Undergraduate, Data Analyst, Mobile Developer, Backend and ERP Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1100&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Python+%26+Django+Developer;Building+ERP+and+Business+Software;Mathematics+Meets+Artificial+Intelligence;Learning+by+Building+Real+Projects" alt="Python and Django developer focused on business software, mathematics, and artificial intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1100&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Python+%26+Django+Developer;Backend-focused+Software+Developer;Building+ERP+and+Inventory+Systems;AI+%26+Data+Enthusiast;Mathematics+Meets+Software+Engineering" alt="Python and Django developer focused on backend engineering, ERP systems, data, and artificial intelligence" />
 
 <br />
 
@@ -18,35 +18,27 @@
 
 ---
 
-## About
+## About Me
 
-I am a mathematics graduate and software developer focused on building practical systems with Python and Django. My work centers on backend-oriented web development, structured data models, and clear user workflows—especially for ERP, inventory, stock-management, and other business-software domains. Alongside application development, I explore data analysis and artificial intelligence as tools for mathematical investigation, including Topological Data Analysis and AI-assisted reasoning. I value maintainable architecture, validation, testing, documentation, and learning through implementation. I am steadily developing an open-source portfolio that connects software engineering with mathematical thinking and turns research-oriented ideas into usable, well-documented projects.
+I am a mathematics graduate and backend-focused software developer building ERP systems, inventory management systems, Django applications, backend services, and data-driven applications. I work primarily with Python and Django, translating business rules into clear domain models, reliable database workflows, validation, and maintainable application structure. My portfolio reflects a practical approach: define the problem, model the data carefully, test important behavior, and document how the software works. Alongside business software, I am interested in artificial intelligence, machine learning, data analysis, Topological Data Analysis, and mathematical research—especially where computation can support exploration, reasoning, and new research tools.
 
 | | |
 | --- | --- |
-| **Focus** | Backend-focused full-stack development and business software |
-| **Main stack** | Python, Django, SQLite, JavaScript, HTML, CSS, Bootstrap |
-| **Research interests** | Topological Data Analysis, AI for mathematics, graph-based methods |
-| **Current objective** | Build a consistent portfolio of reliable, documented software |
-| **Open to** | Junior software opportunities, open-source collaboration, Python and research-oriented projects |
+| **Positioning** | Mathematics Graduate · Python & Django Developer · ERP System Developer |
+| **Engineering focus** | Backend services, business workflows, inventory systems, and data-driven applications |
+| **Core stack** | Python, Django, SQLite, JavaScript, HTML, CSS |
+| **Research interests** | AI, machine learning, data analysis, TDA, and mathematical research |
+| **Open to** | Backend and Python opportunities, open-source collaboration, and research-oriented development |
 
 ---
 
 ## Current Focus
 
-```yaml
-building:
-  - Django applications with clear domain models and service boundaries
-  - ERP and inventory-management concepts for business workflows
-improving:
-  - Authentication, authorization, REST APIs, testing, and deployment
-researching:
-  - Data analysis and Topological Data Analysis
-  - AI-assisted theorem discovery, analysis, and symbolic reasoning
-open_to:
-  - Python and backend projects
-  - Open-source and research-oriented collaboration
-```
+- **Enterprise ERP Development** — translating operational requirements into structured, maintainable business software.
+- **Django Architecture** — improving domain modeling, application boundaries, validation, testing, and backend design.
+- **Inventory & Warehouse Systems** — designing dependable workflows around stock, movement, and operational data.
+- **AI-assisted Mathematical Research** — exploring computational support for analysis, theorem-oriented reasoning, and discovery.
+- **Open Source Development** — publishing practical projects with clear documentation and reproducible setup.
 
 ---
 
@@ -54,16 +46,17 @@ open_to:
 
 | Area | Technologies |
 | --- | --- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,html,css&amp;theme=dark" alt="Python, JavaScript, HTML5, and CSS3" /> |
-| **Backend & data** | <img src="https://skillicons.dev/icons?i=django,sqlite&amp;theme=dark" alt="Django and SQLite" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=bootstrap&amp;theme=dark" alt="Bootstrap" /> |
-| **Development tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" alt="Git, GitHub, and Visual Studio Code" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,html,css&amp;theme=dark" alt="Python, JavaScript, HTML5, and CSS3" /><br /><sub>Python · JavaScript · HTML5 · CSS3</sub> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=django&amp;theme=dark" alt="Django" /><br /><sub>Django</sub> |
+| **Database** | <img src="https://skillicons.dev/icons?i=sqlite&amp;theme=dark" alt="SQLite" /><br /><sub>SQLite</sub> |
+| **Interface & visualization** | <img src="https://skillicons.dev/icons?i=bootstrap&amp;theme=dark" alt="Bootstrap" /><br /><sub>Bootstrap · Chart.js</sub> |
+| **Development tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" alt="Git, GitHub, and Visual Studio Code" /><br /><sub>Git · GitHub · GitHub Actions · Visual Studio Code</sub> |
 
-The stack above reflects technologies used in the public projects highlighted below. Data and AI tooling will be added as research prototypes become public and documented.
+This stack reflects the current public repositories. Technologies are added here only when their use is visible and documented.
 
 ---
 
-## Featured Projects
+## Pinned Projects
 
 <details open>
 <summary><strong>NAM — Habit Tracker</strong> · Django productivity and analytics application</summary>
@@ -74,15 +67,10 @@ The stack above reflects technologies used in the public projects highlighted be
 <img src="https://img.shields.io/github/last-commit/nurialpm/nam-habit-tracker?style=flat-square&amp;color=6366F1&amp;labelColor=111827" alt="Last commit date" />
 <a href="https://github.com/nurialpm/nam-habit-tracker/actions/workflows/django.yml"><img src="https://github.com/nurialpm/nam-habit-tracker/actions/workflows/django.yml/badge.svg" alt="Django continuous integration status" /></a>
 
-**Value:** A local-first habit management system for planning routines, recording daily outcomes, and understanding consistency through dashboards, charts, streaks, and calendar views.
-
-- **Problem addressed:** Replaces fragmented manual tracking with a structured, private workflow backed by a local relational database.
-- **Core features:** Habit and category management, flexible schedules and goals, historical status tracking, daily notes, archiving, performance summaries, streak calculations, heatmaps, charts, calendar views, demo-data generation, and timestamped database backups.
-- **Engineering highlights:** Modular Django app structure, service and utility layers, model-level uniqueness constraints, form validation, environment-based configuration, migrations, responsive templates, security documentation, and CI checks for Django, migrations, and tests.
-- **Stack:** Python 3.12, Django 5.2, SQLite, Bootstrap 5, vanilla JavaScript, Chart.js.
-- **Status:** Actively developed; designed for local use and not presented as a hosted service.
-
-[Explore the repository →](https://github.com/nurialpm/nam-habit-tracker)
+- **Description:** A local-first application for defining habits, recording daily outcomes, and analyzing consistency through dashboards, charts, streaks, heatmaps, and calendar views.
+- **Technologies:** Python 3.12, Django 5.2, SQLite, HTML5, CSS3, Bootstrap 5, vanilla JavaScript, Chart.js.
+- **Why it is interesting:** It combines non-trivial scheduling rules and historical records with modular Django services, relational constraints, validation, database backups, automated tests, migration checks, and continuous integration.
+- **GitHub:** [github.com/nurialpm/nam-habit-tracker](https://github.com/nurialpm/nam-habit-tracker)
 
 </details>
 
@@ -94,15 +82,11 @@ The stack above reflects technologies used in the public projects highlighted be
 <img src="https://img.shields.io/github/languages/top/nurialpm/Grup95-Bootcamp?style=flat-square&amp;color=7C3AED&amp;labelColor=111827" alt="Primary repository language" />
 <img src="https://img.shields.io/github/last-commit/nurialpm/Grup95-Bootcamp?style=flat-square&amp;color=6366F1&amp;labelColor=111827" alt="Last commit date" />
 
-**Value:** A team bootcamp project that presents programming concepts through short tasks, gamified progression, and personalized learning paths.
-
-- **Problem addressed:** Makes the first steps in programming more approachable for learners who need structured, incremental guidance.
-- **Core features documented by the team:** Level-oriented learning, mini tasks, gamification, and learning content spanning algorithms and several programming languages.
-- **Engineering context:** Cross-platform Flutter project structure with mobile, web, and desktop targets; the project repository also documents product planning and a three-sprint team workflow.
-- **Stack:** Dart and Flutter.
-- **Attribution:** This is a collaborative project. The linked repository is a fork of the team repository, whose documentation lists Nuri Alp Mutlu as a developer; individual feature ownership is not claimed here.
-
-[Explore the repository →](https://github.com/nurialpm/Grup95-Bootcamp)
+- **Description:** A collaborative learning application that presents introductory programming through short tasks, gamified progression, and personalized learning paths.
+- **Technologies:** Dart and Flutter, with mobile, web, and desktop project targets.
+- **Why it is interesting:** The repository documents a complete team product workflow across three sprints and connects application development with AI-assisted learning concepts.
+- **Attribution:** The repository is a fork of the team project and lists Nuri Alp Mutlu as a developer; individual feature ownership is not claimed.
+- **GitHub:** [github.com/nurialpm/Grup95-Bootcamp](https://github.com/nurialpm/Grup95-Bootcamp)
 
 </details>
 
@@ -151,7 +135,7 @@ My long-term interest is in software that supports mathematical exploration with
 
 - [x] Establish automated Django checks, migration validation, and test execution for NAM Habit Tracker
 - [x] Document local setup, environment configuration, data handling, and security practices
-- [ ] Design and publish an ERP or inventory-management portfolio project
+- [ ] Publish a documented ERP or inventory-management project where the source can be shared
 - [ ] Add well-scoped REST API endpoints and role-based authorization to a suitable Django project
 - [ ] Introduce a reproducible container-based development setup where it adds practical value
 - [ ] Expand automated tests and project-level documentation
